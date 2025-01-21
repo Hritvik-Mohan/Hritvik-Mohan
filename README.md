@@ -5,7 +5,6 @@ Hi there! 👋 I'm Hritvik, a passionate and driven developer 💻 currently wor
 I'm actively building exciting apps and exploring new technologies, including Kotlin and Android development 📱. Currently, I'm working on several personal projects, such as:
 
 - **Launchpad**: A platform helping users find government schemes, job opportunities, and scholarships 🎓💼.
-- **Tool Base**: A collection of handy tools for tasks like file conversions and video downloads 🛠️.
 - **Better Anki**: Enhancing the Anki app experience for learners 📚.
 
 I also love contributing to open-source projects and am always looking for new challenges that push my skills further 🔥.
