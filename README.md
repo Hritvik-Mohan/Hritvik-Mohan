@@ -1,12 +1,18 @@
 ### About Me
 
-Hi there! 👋 I'm Hritvik, a passionate and driven developer 💻 currently working as a Technical Program Associate at Newton School. With almost 2 years of experience in Full Stack Development, I specialize in building innovative and scalable web applications. I have a strong foundation in both frontend and backend development, and I love learning and growing through hands-on projects 🚀.
+Hi there! I'm Hritvik, a Software Development Engineer at **Newton School**, Bengaluru. I work across the full stack - building mobile apps, desktop applications, APIs, and backend systems.
 
-I'm actively building exciting apps and exploring new technologies, including Kotlin and Android development 📱. Currently, I'm working on several personal projects, such as:
+Some of the things I work on:
 
-- **Launchpad**: A platform helping users find government schemes, job opportunities, and scholarships 🎓💼.
-- **Better Anki**: Enhancing the Anki app experience for learners 📚.
+- **Mobile Applications** — Cross-platform apps using React Native
+- **Desktop Applications** — Electron-based tools featuring discrete event simulation for distributed systems
+- **Detection Systems** — Intelligent content analysis and plagiarism detection pipelines
+- **API Platforms** — Backend services powering products at scale
 
-I also love contributing to open-source projects and am always looking for new challenges that push my skills further 🔥.
+I enjoy working at the intersection of **system design**, **simulation theory**, and **practical engineering** — turning concepts like queueing theory and network models into real, usable tools.
 
-Outside of coding, I enjoy solving complex problems and building things that make a difference 🌱. Feel free to check out my repositories and let's connect! 🤝
+**Tech I work with:** React, React Native, Electron, Node.js, and more across the JS/TS ecosystem.
+
+Outside of code, I'm a cinema enthusiast with a deep love for directors like Fincher, Nolan, Villeneuve, and Tarkovsky. Always happy to talk films, system design, or interesting problems.
+
+Let's connect!
